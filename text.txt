@@ -1,11 +1,10 @@
 Cách đặt tên:
 🐍 snake_case : Toàn bộ chữ cái đều viết thường, thường dùng cho tên hằng số hoặc tên của chương trình, phân tách nhau bằng dấu "_". Ví dụ : program_final, get_max()
-🐪 camelCase : Từ đầu tiên trọng cụm từ được viết thường, những ký tự còn lại thì viết hoa, áp dụng cho tên hàm, tên biến và tên phương thức. Ví dụ: firstName, lastName, getName(), findMember()
+🐪 camelCase : Từ đầu tiên trọng cụm từ được viết thường, những ký tự còn lại thì viết hoa, áp dụng cho tên hàm, tên biến và tên phương thức. Ví dụ: firstName, getName()
 👩🏻‍💻 Pascalcase : Viết hoa ký tự đầu tiên của tất cả từ có trong cụm, thường áp dụng cho tên class hay tên biến. Ví dụ: MickeyMouse, FirstName
 
 Cách thụt lề:
 👉 Sử dụng các tab để thụt lề ở đầu dòng, không phải dấu cách.
-👉 Sử dụng khoảng trắng, không phải tab, sau ký tự không phải khoảng trắng đầu tiên trên một dòng. Khoảng cách có thể được sử dụng để sắp xếp các câu lệnh trên các dòng liên tiếp. Đừng cố sắp xếp ký tự không phải khoảng trắng đầu tiên của một dòng với một số ký tự không phải khoảng trắng khác với ký tự không phải khoảng trắng đầu tiên trên dòng trên bằng cách kết hợp các tab và dấu cách.
 👉 Thụt lề một tab bổ sung cho mỗi cấp độ lồng nhau.
 👉 Thụt lề một tab bổ sung khi các đối số hàm phải được bao ngoài dòng đầu tiên.
 👉 Thụt lề hai tab bổ sung khi khai báo vòng lặp for phải được bao bọc bên ngoài dòng đầu tiên, (ví dụ: khi các lớp lặp có tên dài).
