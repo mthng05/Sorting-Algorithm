@@ -13,3 +13,9 @@ Cách xuống hàng:
 ➡️ Nếu một hàm có nhiều cấp lồng nhau, mỗi cấp nên xuống dòng.
 ➡️ Các đoạn code bằng cấp nên ở cùng một cột với nhau, dòng xuống hàng nên bắt đầu cùng cấp với dòng phía trên.
 ➡️ Xuống hàng trước các toán tử (ví dụ như +, -, *, ?,…), nếu quá dài
+
+Thống nhất cách đặt tên:
+• Tên hàm:
+▶ Theo camelCase
+• Tên biến:
+▶ Theo snake_case
